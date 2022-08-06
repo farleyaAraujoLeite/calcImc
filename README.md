@@ -1,3 +1,3 @@
-Projetinho feito para ajudar as pessoas a saberem se estão com o peso ideal e também para praticar um pouco de React Native.![Screenshot_20220805-234019_Expo Go](https://user-images.githubusercontent.com/79859781/183253877-162b5885-84e2-4541-9351-d2641e516b0e.jpg)
-![Screenshot_20220805-234048_Expo Go](https://user-images.githubusercontent.com/79859781/183253880-b4127e58-3065-4e9d-a37d-beb84912f890.jpg)
-![Screenshot_20220805-234104_Expo Go](https://user-images.githubusercontent.com/79859781/183253881-15f1e3f7-164d-4d8b-bb3e-558ba98d0c68.jpg)
+Projetinho feito para ajudar as pessoas a saberem se estão com o peso ideal e também para praticar um pouco de React Native.![Screenshot_20220805-234019_Expo Go](https://user-images.githubusercontent.com/79859781/183254042-49ba89f4-1d6e-4926-8afc-24dcb20ad470.jpg)
+![Screenshot_20220805-234048_Expo Go](https://user-images.githubusercontent.com/79859781/183254043-75765872-a5d6-4ad6-a083-2d07be57b633.jpg)
+![Screenshot_20220805-234104_Expo Go](https://user-images.githubusercontent.com/79859781/183254044-ddfffbc7-6fdf-4dd8-b141-0f24daa2635c.jpg)
